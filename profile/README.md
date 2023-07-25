@@ -4,7 +4,7 @@
 </p>
 
 
-## LGSI 2023
+## LG Soft India Internship 2023
 > Kyungpook National University<br>
 > Team 2<br>
 > Project Time Line: 01.07.23 ~ 26.07.23<br>

@@ -54,7 +54,7 @@ Based on LG Signature Wine-cellar, we have came up with Smart Winary System, tha
 Back-end: <a href="https://github.com/LGSI-2023-Team2/Smart-Winery-Backend">Smart-Winery-Backend</a><br>
 Front-end(Android): <a href="https://github.com/LGSI-2023-Team2/Smart-Winery-Application">Smart-Winery-Application</a><br>
 Front-end(webOS): <a href="https://github.com/LGSI-2023-Team2/Smart-Winery-WebOS">Smart-Winery-WebOS</a><br>
-Documentation(APIs & Wine Data): <a href="https://github.com/LGSI-2023-Team2/Smart-Winery-Doc">Smart-Winery-Doc</a><br>
+Documentation(APIs & Wine Data): <a href="https://re1yun.gitbook.io/lgsi-2023-team-2/">Smart-Winery-Doc</a><br>
 
 ## Requirements
 Nodejs 18.13.0<br>
